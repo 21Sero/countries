@@ -1,7 +1,7 @@
 # information-about-countries
 Live Demo
 
-warm-muffin-b05f66.netlify.app/
+warm-muffin-b05f66.netlify.app
 
 
 Countries
