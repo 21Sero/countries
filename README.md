@@ -15,7 +15,7 @@ To use this repository, you can clone it to your local machine using Git:
 
 bash
 Copy code
-git clone https://github.com/21Sero/information-about-countries
+git clone https://github.com/21Sero/information-about-countries.git
 
 Once you have cloned the repository, you can explore the data and resources provided.
 
